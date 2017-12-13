@@ -5,6 +5,9 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "C:/localAssignmentC++/Location.cpp" "C:/localAssignmentC++/cmake-build-debug/CMakeFiles/localAssignmentC__.dir/Location.cpp.obj"
+  "C:/localAssignmentC++/Mammal.cpp" "C:/localAssignmentC++/cmake-build-debug/CMakeFiles/localAssignmentC__.dir/Mammal.cpp.obj"
+  "C:/localAssignmentC++/Pod.cpp" "C:/localAssignmentC++/cmake-build-debug/CMakeFiles/localAssignmentC__.dir/Pod.cpp.obj"
+  "C:/localAssignmentC++/extraFuncs.cpp" "C:/localAssignmentC++/cmake-build-debug/CMakeFiles/localAssignmentC__.dir/extraFuncs.cpp.obj"
   "C:/localAssignmentC++/main.cpp" "C:/localAssignmentC++/cmake-build-debug/CMakeFiles/localAssignmentC__.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

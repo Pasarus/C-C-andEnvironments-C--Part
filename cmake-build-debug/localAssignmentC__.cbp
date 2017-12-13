@@ -88,6 +88,24 @@
 		<Unit filename="C:/localAssignmentC++/Location.h">
 			<Option target="localAssignmentC__"/>
 		</Unit>
+		<Unit filename="C:/localAssignmentC++/Mammal.cpp">
+			<Option target="localAssignmentC__"/>
+		</Unit>
+		<Unit filename="C:/localAssignmentC++/Mammal.h">
+			<Option target="localAssignmentC__"/>
+		</Unit>
+		<Unit filename="C:/localAssignmentC++/Pod.cpp">
+			<Option target="localAssignmentC__"/>
+		</Unit>
+		<Unit filename="C:/localAssignmentC++/Pod.h">
+			<Option target="localAssignmentC__"/>
+		</Unit>
+		<Unit filename="C:/localAssignmentC++/extraFuncs.cpp">
+			<Option target="localAssignmentC__"/>
+		</Unit>
+		<Unit filename="C:/localAssignmentC++/extraFuncs.h">
+			<Option target="localAssignmentC__"/>
+		</Unit>
 		<Unit filename="C:/localAssignmentC++/main.cpp">
 			<Option target="localAssignmentC__"/>
 		</Unit>

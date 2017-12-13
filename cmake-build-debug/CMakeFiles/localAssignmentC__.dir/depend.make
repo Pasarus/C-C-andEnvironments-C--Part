@@ -4,6 +4,21 @@
 CMakeFiles/localAssignmentC__.dir/Location.cpp.obj: ../Location.cpp
 CMakeFiles/localAssignmentC__.dir/Location.cpp.obj: ../Location.h
 
+CMakeFiles/localAssignmentC__.dir/Mammal.cpp.obj: ../Location.h
+CMakeFiles/localAssignmentC__.dir/Mammal.cpp.obj: ../Mammal.cpp
+CMakeFiles/localAssignmentC__.dir/Mammal.cpp.obj: ../Mammal.h
+
+CMakeFiles/localAssignmentC__.dir/Pod.cpp.obj: ../Location.h
+CMakeFiles/localAssignmentC__.dir/Pod.cpp.obj: ../Mammal.h
+CMakeFiles/localAssignmentC__.dir/Pod.cpp.obj: ../Pod.cpp
+CMakeFiles/localAssignmentC__.dir/Pod.cpp.obj: ../Pod.h
+
+CMakeFiles/localAssignmentC__.dir/extraFuncs.cpp.obj: ../extraFuncs.cpp
+CMakeFiles/localAssignmentC__.dir/extraFuncs.cpp.obj: ../extraFuncs.h
+
 CMakeFiles/localAssignmentC__.dir/main.cpp.obj: ../Location.h
+CMakeFiles/localAssignmentC__.dir/main.cpp.obj: ../Mammal.h
+CMakeFiles/localAssignmentC__.dir/main.cpp.obj: ../Pod.h
+CMakeFiles/localAssignmentC__.dir/main.cpp.obj: ../extraFuncs.h
 CMakeFiles/localAssignmentC__.dir/main.cpp.obj: ../main.cpp
 

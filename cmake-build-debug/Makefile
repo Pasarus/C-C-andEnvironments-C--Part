@@ -149,6 +149,87 @@ Location.cpp.s:
 	$(MAKE) -f CMakeFiles\localAssignmentC__.dir\build.make CMakeFiles/localAssignmentC__.dir/Location.cpp.s
 .PHONY : Location.cpp.s
 
+Mammal.obj: Mammal.cpp.obj
+
+.PHONY : Mammal.obj
+
+# target to build an object file
+Mammal.cpp.obj:
+	$(MAKE) -f CMakeFiles\localAssignmentC__.dir\build.make CMakeFiles/localAssignmentC__.dir/Mammal.cpp.obj
+.PHONY : Mammal.cpp.obj
+
+Mammal.i: Mammal.cpp.i
+
+.PHONY : Mammal.i
+
+# target to preprocess a source file
+Mammal.cpp.i:
+	$(MAKE) -f CMakeFiles\localAssignmentC__.dir\build.make CMakeFiles/localAssignmentC__.dir/Mammal.cpp.i
+.PHONY : Mammal.cpp.i
+
+Mammal.s: Mammal.cpp.s
+
+.PHONY : Mammal.s
+
+# target to generate assembly for a file
+Mammal.cpp.s:
+	$(MAKE) -f CMakeFiles\localAssignmentC__.dir\build.make CMakeFiles/localAssignmentC__.dir/Mammal.cpp.s
+.PHONY : Mammal.cpp.s
+
+Pod.obj: Pod.cpp.obj
+
+.PHONY : Pod.obj
+
+# target to build an object file
+Pod.cpp.obj:
+	$(MAKE) -f CMakeFiles\localAssignmentC__.dir\build.make CMakeFiles/localAssignmentC__.dir/Pod.cpp.obj
+.PHONY : Pod.cpp.obj
+
+Pod.i: Pod.cpp.i
+
+.PHONY : Pod.i
+
+# target to preprocess a source file
+Pod.cpp.i:
+	$(MAKE) -f CMakeFiles\localAssignmentC__.dir\build.make CMakeFiles/localAssignmentC__.dir/Pod.cpp.i
+.PHONY : Pod.cpp.i
+
+Pod.s: Pod.cpp.s
+
+.PHONY : Pod.s
+
+# target to generate assembly for a file
+Pod.cpp.s:
+	$(MAKE) -f CMakeFiles\localAssignmentC__.dir\build.make CMakeFiles/localAssignmentC__.dir/Pod.cpp.s
+.PHONY : Pod.cpp.s
+
+extraFuncs.obj: extraFuncs.cpp.obj
+
+.PHONY : extraFuncs.obj
+
+# target to build an object file
+extraFuncs.cpp.obj:
+	$(MAKE) -f CMakeFiles\localAssignmentC__.dir\build.make CMakeFiles/localAssignmentC__.dir/extraFuncs.cpp.obj
+.PHONY : extraFuncs.cpp.obj
+
+extraFuncs.i: extraFuncs.cpp.i
+
+.PHONY : extraFuncs.i
+
+# target to preprocess a source file
+extraFuncs.cpp.i:
+	$(MAKE) -f CMakeFiles\localAssignmentC__.dir\build.make CMakeFiles/localAssignmentC__.dir/extraFuncs.cpp.i
+.PHONY : extraFuncs.cpp.i
+
+extraFuncs.s: extraFuncs.cpp.s
+
+.PHONY : extraFuncs.s
+
+# target to generate assembly for a file
+extraFuncs.cpp.s:
+	$(MAKE) -f CMakeFiles\localAssignmentC__.dir\build.make CMakeFiles/localAssignmentC__.dir/extraFuncs.cpp.s
+.PHONY : extraFuncs.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -188,6 +269,15 @@ help:
 	@echo ... Location.obj
 	@echo ... Location.i
 	@echo ... Location.s
+	@echo ... Mammal.obj
+	@echo ... Mammal.i
+	@echo ... Mammal.s
+	@echo ... Pod.obj
+	@echo ... Pod.i
+	@echo ... Pod.s
+	@echo ... extraFuncs.obj
+	@echo ... extraFuncs.i
+	@echo ... extraFuncs.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

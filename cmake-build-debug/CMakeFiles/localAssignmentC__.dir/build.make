@@ -104,21 +104,99 @@ CMakeFiles/localAssignmentC__.dir/Location.cpp.obj.provides: CMakeFiles/localAss
 CMakeFiles/localAssignmentC__.dir/Location.cpp.obj.provides.build: CMakeFiles/localAssignmentC__.dir/Location.cpp.obj
 
 
+CMakeFiles/localAssignmentC__.dir/Mammal.cpp.obj: CMakeFiles/localAssignmentC__.dir/flags.make
+CMakeFiles/localAssignmentC__.dir/Mammal.cpp.obj: ../Mammal.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\localAssignmentC++\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/localAssignmentC__.dir/Mammal.cpp.obj"
+	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\localAssignmentC__.dir\Mammal.cpp.obj -c C:\localAssignmentC++\Mammal.cpp
+
+CMakeFiles/localAssignmentC__.dir/Mammal.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/localAssignmentC__.dir/Mammal.cpp.i"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\localAssignmentC++\Mammal.cpp > CMakeFiles\localAssignmentC__.dir\Mammal.cpp.i
+
+CMakeFiles/localAssignmentC__.dir/Mammal.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/localAssignmentC__.dir/Mammal.cpp.s"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\localAssignmentC++\Mammal.cpp -o CMakeFiles\localAssignmentC__.dir\Mammal.cpp.s
+
+CMakeFiles/localAssignmentC__.dir/Mammal.cpp.obj.requires:
+
+.PHONY : CMakeFiles/localAssignmentC__.dir/Mammal.cpp.obj.requires
+
+CMakeFiles/localAssignmentC__.dir/Mammal.cpp.obj.provides: CMakeFiles/localAssignmentC__.dir/Mammal.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\localAssignmentC__.dir\build.make CMakeFiles/localAssignmentC__.dir/Mammal.cpp.obj.provides.build
+.PHONY : CMakeFiles/localAssignmentC__.dir/Mammal.cpp.obj.provides
+
+CMakeFiles/localAssignmentC__.dir/Mammal.cpp.obj.provides.build: CMakeFiles/localAssignmentC__.dir/Mammal.cpp.obj
+
+
+CMakeFiles/localAssignmentC__.dir/extraFuncs.cpp.obj: CMakeFiles/localAssignmentC__.dir/flags.make
+CMakeFiles/localAssignmentC__.dir/extraFuncs.cpp.obj: ../extraFuncs.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\localAssignmentC++\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/localAssignmentC__.dir/extraFuncs.cpp.obj"
+	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\localAssignmentC__.dir\extraFuncs.cpp.obj -c C:\localAssignmentC++\extraFuncs.cpp
+
+CMakeFiles/localAssignmentC__.dir/extraFuncs.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/localAssignmentC__.dir/extraFuncs.cpp.i"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\localAssignmentC++\extraFuncs.cpp > CMakeFiles\localAssignmentC__.dir\extraFuncs.cpp.i
+
+CMakeFiles/localAssignmentC__.dir/extraFuncs.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/localAssignmentC__.dir/extraFuncs.cpp.s"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\localAssignmentC++\extraFuncs.cpp -o CMakeFiles\localAssignmentC__.dir\extraFuncs.cpp.s
+
+CMakeFiles/localAssignmentC__.dir/extraFuncs.cpp.obj.requires:
+
+.PHONY : CMakeFiles/localAssignmentC__.dir/extraFuncs.cpp.obj.requires
+
+CMakeFiles/localAssignmentC__.dir/extraFuncs.cpp.obj.provides: CMakeFiles/localAssignmentC__.dir/extraFuncs.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\localAssignmentC__.dir\build.make CMakeFiles/localAssignmentC__.dir/extraFuncs.cpp.obj.provides.build
+.PHONY : CMakeFiles/localAssignmentC__.dir/extraFuncs.cpp.obj.provides
+
+CMakeFiles/localAssignmentC__.dir/extraFuncs.cpp.obj.provides.build: CMakeFiles/localAssignmentC__.dir/extraFuncs.cpp.obj
+
+
+CMakeFiles/localAssignmentC__.dir/Pod.cpp.obj: CMakeFiles/localAssignmentC__.dir/flags.make
+CMakeFiles/localAssignmentC__.dir/Pod.cpp.obj: ../Pod.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\localAssignmentC++\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/localAssignmentC__.dir/Pod.cpp.obj"
+	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\localAssignmentC__.dir\Pod.cpp.obj -c C:\localAssignmentC++\Pod.cpp
+
+CMakeFiles/localAssignmentC__.dir/Pod.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/localAssignmentC__.dir/Pod.cpp.i"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\localAssignmentC++\Pod.cpp > CMakeFiles\localAssignmentC__.dir\Pod.cpp.i
+
+CMakeFiles/localAssignmentC__.dir/Pod.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/localAssignmentC__.dir/Pod.cpp.s"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\localAssignmentC++\Pod.cpp -o CMakeFiles\localAssignmentC__.dir\Pod.cpp.s
+
+CMakeFiles/localAssignmentC__.dir/Pod.cpp.obj.requires:
+
+.PHONY : CMakeFiles/localAssignmentC__.dir/Pod.cpp.obj.requires
+
+CMakeFiles/localAssignmentC__.dir/Pod.cpp.obj.provides: CMakeFiles/localAssignmentC__.dir/Pod.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\localAssignmentC__.dir\build.make CMakeFiles/localAssignmentC__.dir/Pod.cpp.obj.provides.build
+.PHONY : CMakeFiles/localAssignmentC__.dir/Pod.cpp.obj.provides
+
+CMakeFiles/localAssignmentC__.dir/Pod.cpp.obj.provides.build: CMakeFiles/localAssignmentC__.dir/Pod.cpp.obj
+
+
 # Object files for target localAssignmentC__
 localAssignmentC___OBJECTS = \
 "CMakeFiles/localAssignmentC__.dir/main.cpp.obj" \
-"CMakeFiles/localAssignmentC__.dir/Location.cpp.obj"
+"CMakeFiles/localAssignmentC__.dir/Location.cpp.obj" \
+"CMakeFiles/localAssignmentC__.dir/Mammal.cpp.obj" \
+"CMakeFiles/localAssignmentC__.dir/extraFuncs.cpp.obj" \
+"CMakeFiles/localAssignmentC__.dir/Pod.cpp.obj"
 
 # External object files for target localAssignmentC__
 localAssignmentC___EXTERNAL_OBJECTS =
 
 localAssignmentC__.exe: CMakeFiles/localAssignmentC__.dir/main.cpp.obj
 localAssignmentC__.exe: CMakeFiles/localAssignmentC__.dir/Location.cpp.obj
+localAssignmentC__.exe: CMakeFiles/localAssignmentC__.dir/Mammal.cpp.obj
+localAssignmentC__.exe: CMakeFiles/localAssignmentC__.dir/extraFuncs.cpp.obj
+localAssignmentC__.exe: CMakeFiles/localAssignmentC__.dir/Pod.cpp.obj
 localAssignmentC__.exe: CMakeFiles/localAssignmentC__.dir/build.make
 localAssignmentC__.exe: CMakeFiles/localAssignmentC__.dir/linklibs.rsp
 localAssignmentC__.exe: CMakeFiles/localAssignmentC__.dir/objects1.rsp
 localAssignmentC__.exe: CMakeFiles/localAssignmentC__.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\localAssignmentC++\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable localAssignmentC__.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\localAssignmentC++\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable localAssignmentC__.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\localAssignmentC__.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -128,6 +206,9 @@ CMakeFiles/localAssignmentC__.dir/build: localAssignmentC__.exe
 
 CMakeFiles/localAssignmentC__.dir/requires: CMakeFiles/localAssignmentC__.dir/main.cpp.obj.requires
 CMakeFiles/localAssignmentC__.dir/requires: CMakeFiles/localAssignmentC__.dir/Location.cpp.obj.requires
+CMakeFiles/localAssignmentC__.dir/requires: CMakeFiles/localAssignmentC__.dir/Mammal.cpp.obj.requires
+CMakeFiles/localAssignmentC__.dir/requires: CMakeFiles/localAssignmentC__.dir/extraFuncs.cpp.obj.requires
+CMakeFiles/localAssignmentC__.dir/requires: CMakeFiles/localAssignmentC__.dir/Pod.cpp.obj.requires
 
 .PHONY : CMakeFiles/localAssignmentC__.dir/requires
 

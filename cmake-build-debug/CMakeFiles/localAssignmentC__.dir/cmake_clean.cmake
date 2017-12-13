@@ -1,6 +1,9 @@
 file(REMOVE_RECURSE
   "CMakeFiles/localAssignmentC__.dir/main.cpp.obj"
   "CMakeFiles/localAssignmentC__.dir/Location.cpp.obj"
+  "CMakeFiles/localAssignmentC__.dir/Mammal.cpp.obj"
+  "CMakeFiles/localAssignmentC__.dir/extraFuncs.cpp.obj"
+  "CMakeFiles/localAssignmentC__.dir/Pod.cpp.obj"
   "localAssignmentC__.pdb"
   "localAssignmentC__.exe"
   "localAssignmentC__.exe.manifest"
